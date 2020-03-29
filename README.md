@@ -1,6 +1,6 @@
 # AI python
 
-## env
+## requirements
 
 * python 3.6.9
 * pip 20.0.2
