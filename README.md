@@ -8,6 +8,6 @@
 
 ## Cheat seat
 
-https://scikit-learn.org/stable/tutorial/machine_learning_map/index.htm
+https://scikit-learn.org/stable/tutorial/machine_learning_map/index.html
 
 ![scikit-learn_stable_cs_map](https://scikit-learn.org/stable/_static/ml_map.png)
