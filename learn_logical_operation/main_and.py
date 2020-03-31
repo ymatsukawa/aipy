@@ -1,4 +1,3 @@
-# pip3 install scikit-learn
 from sklearn.svm import LinearSVC
 from sklearn.metrics import accuracy_score
 
